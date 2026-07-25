@@ -1,0 +1,235 @@
+﻿Question,Intent,Answer
+ ,,
+What is the admission process?,admission,Admissions start in June. Students can apply online or visit the admission office.
+What documents are required for admission?,admission,SSC marks memo Intermediate marks memo Transfer Certificate and Aadhaar are required.
+Can I apply online?,admission,Yes online admission is available through the college website.
+What is the last date for admission?,admission,Please check the official college website for the latest admission schedule.
+Is there any entrance exam?,admission,Admission is based on eligibility and entrance exam rules.
+What is the annual tuition fee?,fees,The annual tuition fee is ₹50000.
+Is there any scholarship available?,fees,Eligible students can apply for government scholarships.
+Can I pay fees in installments?,fees,Yes fee installments are available with approval.
+What is the hostel fee?,hostel,Hostel fee is ₹60000 per year.
+Is hostel available for girls?,hostel,Yes separate hostel facilities are available for girls.
+What courses are offered?,courses,CSE ECE EEE Civil Mechanical MBA and Diploma courses are available.
+Does the college offer CSE?,courses,Yes Computer Science and Engineering is available.
+What is the college timing?,general,College timings are 9 AM to 4 PM.
+Where is the college located?,general,Please check the official college website for the address.
+Who is the principal?,general,Please visit the official website for updated principal details.
+What is the placement percentage?,placement,More than 85 percent of eligible students are placed every year.
+Which companies visit the campus?,placement,TCS Infosys Wipro Accenture Cognizant and Capgemini visit the campus.
+Does the college provide internships?,internship,Yes internship opportunities are provided through the placement cell.
+Is library available?,library,Yes the library is open from 9 AM to 5 PM.
+What is the attendance requirement?,attendance,A minimum of 75 percent attendance is required.
+Is there any management quota?,admission,Yes management quota admissions are available as per college rules.
+Can I change my branch after admission?,admission,Branch change depends on college policy and seat availability.
+When does the academic year start?,admission,The academic year usually starts in July.
+Is migration certificate required?,admission,Yes if applicable migration certificate is required.
+How can I contact the admission office?,admission,You can contact the admission office through phone email or by visiting the campus.
+,,
+What is the examination fee?,fees,The examination fee is announced before each semester.
+Can I pay fees online?,fees,Yes fees can be paid through the online payment portal.
+Is there any late fee penalty?,fees,Yes a late fee may be charged after the due date.
+Are scholarships available for merit students?,fees,Yes merit scholarships are available for eligible students.
+Can I get a fee receipt online?,fees,Yes you can download the fee receipt from the student portal.
+,,
+Is Wi-Fi available in the hostel?,hostel,Yes Wi-Fi is available in the hostel.
+Are hostel rooms shared?,hostel,Yes rooms are generally shared by two or three students.
+Is hostel food provided?,hostel,Yes healthy and hygienic food is provided.
+Can day scholars use hostel facilities?,hostel,No hostel facilities are only for hostel students.
+Is hostel available for first year students?,hostel,Yes hostel accommodation is available for first year students.
+,,
+Does the college provide bus facilities?,transport,Yes bus facilities are available on different routes.
+How can I apply for a bus pass?,transport,Students can apply through the transport office.
+Are buses available for nearby towns?,transport,Yes buses are available for selected nearby towns.
+What is the transport fee?,transport,Transport fees depend on the route selected.
+Can I change my bus route?,transport,Yes subject to seat availability.
+,,
+Is there a central library?,library,Yes the college has a central library.
+Can I borrow books?,library,Yes students can borrow books using their ID card.
+How many books can I borrow?,library,Students can borrow up to three books at a time.
+Is the library open on Saturdays?,library,Yes the library is open on Saturdays.
+Are digital books available?,library,Yes digital resources are available through the library portal.
+,,
+Does the college provide internships?,internship,Yes internships are arranged through the placement cell.
+Are internships mandatory?,internship,Yes internships are mandatory in some semesters.
+Can I do an internship outside the college?,internship,Yes with department approval.
+Are paid internships available?,internship,Yes some companies offer paid internships.
+Will I get an internship certificate?,internship,Yes successful completion earns a certificate.
+,,
+Which companies offer placements?,placement,TCS Infosys Wipro Accenture Cognizant Capgemini and Tech Mahindra visit the campus.
+What is the highest package?,placement,The highest package varies every year.
+Is placement training provided?,placement,Yes aptitude coding and interview training are provided.
+Can all students attend placement drives?,placement,Eligible students can attend placement drives.
+Does the college conduct mock interviews?,placement,Yes mock interviews are conducted regularly.
+,,
+What is the minimum attendance required?,attendance,A minimum of 75 percent attendance is required.
+Can attendance be relaxed?,attendance,Relaxation is provided only in special cases.
+How can I check my attendance?,attendance,Attendance can be viewed on the student portal.
+What happens if attendance is low?,attendance,Students may not be allowed to write examinations.
+Are medical leaves considered?,attendance,Medical leave may be considered with valid documents.
+,,
+How many semesters are there in BTech?,courses,BTech consists of eight semesters.
+Is CSE available?,courses,Yes Computer Science and Engineering is offered.
+Does the college offer MBA?,courses,Yes MBA is available.
+Are diploma courses available?,courses,Yes diploma programs are offered.
+Can I choose elective subjects?,courses,Yes elective subjects are available from higher semesters.
+,,
+What are the college working hours?,general,College works from 9 AM to 4 PM.
+Is there a student portal?,general,Yes every student receives portal login credentials.
+How do I get my ID card?,general,The ID card is issued after admission.
+Does the college have an anti-ragging committee?,general,Yes the college has a strict anti-ragging committee.
+How can I contact the college?,general,You can contact the college through the official website phone or email.
+Is biometric attendance available?,attendance,Yes biometric attendance is available for students.
+Can I apply for leave online?,attendance,Yes leave applications can be submitted through the student portal.
+How is attendance calculated?,attendance,Attendance is calculated based on classes attended.
+Can parents check attendance?,attendance,Yes parents can check attendance through the parent portal.
+Is attendance compulsory for labs?,attendance,Yes attendance is compulsory for both theory and lab classes.
+,,
+When are semester exams conducted?,exams,Semester exams are conducted at the end of each semester.
+How can I download my hall ticket?,exams,Hall tickets can be downloaded from the student portal.
+Can I apply for revaluation?,exams,Yes students can apply for revaluation after results.
+When will exam results be announced?,exams,Results are usually announced within one month.
+What is the passing mark?,exams,Students must score the minimum passing marks prescribed by the university.
+,,
+Is there a computer lab?,facilities,Yes modern computer labs are available.
+Are laboratories well equipped?,facilities,Yes all laboratories are equipped with modern instruments.
+Does the campus have Wi-Fi?,facilities,Yes free Wi-Fi is available across the campus.
+Is there a canteen on campus?,facilities,Yes the college has a hygienic canteen.
+Is medical assistance available?,facilities,Yes first aid and medical facilities are available.
+,,
+Does the college organize workshops?,events,Yes technical and non-technical workshops are conducted regularly.
+Are hackathons conducted?,events,Yes hackathons are organized every year.
+Can students participate in technical events?,events,Yes students are encouraged to participate in technical events.
+Does the college celebrate annual day?,events,Yes annual day is celebrated every year.
+Are sports events organized?,events,Yes sports competitions are organized annually.
+,,
+How can I register for NSS?,nss,NSS registration is available through the NSS coordinator.
+Is NCC available?,ncc,Yes NCC is available for eligible students.
+Can I join student clubs?,clubs,Yes students can join various technical and cultural clubs.
+Are cultural activities encouraged?,clubs,Yes cultural activities are encouraged throughout the year.
+Does the college have a coding club?,clubs,Yes the college has an active coding club.
+,,
+How do I reset my student portal password?,portal,Use the Forgot Password option on the student portal.
+Where can I access study materials?,portal,Study materials are available on the student portal.
+Can I update my profile online?,portal,Yes students can update their profile through the portal.
+How do I check my semester timetable?,portal,The timetable is available on the student portal.
+Can I download my bonafide certificate?,portal,Yes bonafide certificates can be downloaded or requested online.
+,,
+Does the college provide project guidance?,projects,Yes faculty members guide students in academic projects.
+Can final year students choose their own project?,projects,Yes students can select projects with faculty approval.
+Is mini project compulsory?,projects,Yes mini projects are part of the curriculum.
+Are project reviews conducted?,projects,Yes regular project reviews are conducted.
+Can projects be done in teams?,projects,Yes projects can be completed in teams.
+,,
+Does the college offer online classes?,academics,Yes online classes are conducted whenever required.
+How many subjects are there in a semester?,academics,The number of subjects depends on the semester.
+Can I change my elective?,academics,Elective changes are allowed within the specified period.
+Who is my class advisor?,academics,Please contact your department office for advisor details.
+Are bridge courses available?,academics,Yes bridge courses are offered for first-year students.
+,,
+How do I apply for Transfer Certificate?,certificates,Apply through the examination or administration office.
+Can I get a bonafide certificate?,certificates,Yes bonafide certificates are issued on request.
+How can I collect my degree certificate?,certificates,Degree certificates are issued by the university after graduation.
+Can I get duplicate mark sheets?,certificates,Yes duplicate mark sheets can be obtained by applying to the university.
+How long does it take to receive certificates?,certificates,Processing usually takes a few working days.
+,,
+Is parking available for students?,campus,Yes parking facilities are available inside the campus.
+Are CCTV cameras installed?,campus,Yes CCTV cameras are installed for campus safety.
+Is ragging prohibited?,campus,Yes the college follows a strict anti-ragging policy.
+Can visitors enter the campus?,campus,Visitors are allowed with prior permission.
+Is the campus eco-friendly?,campus,Yes the college promotes a green and eco-friendly campus.
+Can I use the library after college hours?,library,The library remains open until the scheduled closing time.
+Is there a digital library?,library,Yes students can access digital books and journals.
+Can alumni use the library?,library,Yes alumni may use the library with permission.
+How many newspapers are available in the library?,library,Several newspapers and magazines are available daily.
+Can I renew borrowed books?,library,Yes books can be renewed before the due date.
+,,
+Does the college provide industrial visits?,industrial_visit,Yes industrial visits are organized regularly.
+How often are industrial visits conducted?,industrial_visit,Industrial visits are conducted every academic year.
+Are industrial visits compulsory?,industrial_visit,Some industrial visits are mandatory depending on the course.
+Will students receive certificates for industrial visits?,industrial_visit,Participation certificates may be issued.
+Who organizes industrial visits?,industrial_visit,The department faculty coordinates industrial visits.
+,,
+Are guest lectures conducted?,guest_lecture,Yes guest lectures are organized regularly.
+Who delivers guest lectures?,guest_lecture,Industry experts and professors deliver guest lectures.
+Are guest lectures free?,guest_lecture,Yes guest lectures are free for students.
+Can first year students attend guest lectures?,guest_lecture,Yes eligible students can attend.
+Will attendance be given for guest lectures?,guest_lecture,Attendance depends on department guidelines.
+,,
+Does the college support startups?,innovation,Yes the college encourages innovation and startups.
+Is there an innovation cell?,innovation,Yes an innovation and incubation cell is available.
+Can students develop prototypes?,innovation,Yes students are encouraged to develop prototypes.
+Are entrepreneurship programs available?,innovation,Yes entrepreneurship development programs are conducted.
+Does the college conduct innovation competitions?,innovation,Yes innovation competitions are organized every year.
+,,
+Is there a placement cell?,placement,Yes the college has a dedicated placement cell.
+Who is eligible for placements?,placement,Students meeting the eligibility criteria can participate.
+Are aptitude classes provided?,placement,Yes aptitude and reasoning classes are conducted.
+Are coding classes provided?,placement,Yes coding practice sessions are conducted.
+Does the college provide soft skills training?,placement,Yes communication and soft skills training are provided.
+,,
+Can students participate in national conferences?,conference,Yes students are encouraged to present papers.
+Does the college organize conferences?,conference,Yes conferences are conducted every year.
+Can I publish research papers?,conference,Yes students can publish papers with faculty guidance.
+Are conference certificates provided?,conference,Yes participation certificates are issued.
+Is financial support available for conferences?,conference,Support depends on college policy.
+,,
+Is a gym available on campus?,sports,Yes gym facilities are available.
+Does the college have a playground?,sports,Yes a large playground is available.
+Which sports are available?,sports,Cricket Volleyball Basketball Badminton and Kabaddi are available.
+Can students participate in university sports?,sports,Yes eligible students represent the college.
+Are sports scholarships available?,sports,Sports scholarships are available for eligible students.
+,,
+Can students participate in cultural clubs?,cultural,Yes students can join cultural clubs.
+Does the college celebrate festivals?,cultural,Yes festivals are celebrated on campus.
+Is there a dance club?,cultural,Yes dance club activities are conducted.
+Is there a music club?,cultural,Yes students can join the music club.
+Are cultural competitions organized?,cultural,Yes competitions are organized every year.
+,,
+Can I submit assignments online?,assignments,Yes assignments can be submitted through the portal.
+What happens if I submit late?,assignments,Late submissions may receive reduced marks.
+Can assignments be handwritten?,assignments,It depends on faculty instructions.
+How many assignments are there per subject?,assignments,Usually two assignments are given per subject.
+Are assignment marks included in internal marks?,assignments,Yes assignment marks contribute to internal assessment.
+,,
+How can I contact my faculty?,faculty,Faculty members can be contacted during working hours.
+Are faculty email IDs available?,faculty,Yes faculty email IDs are provided by the department.
+Can I meet faculty after class?,faculty,Yes during faculty consultation hours.
+Does every class have a mentor?,faculty,Yes every class is assigned a faculty mentor.
+Can I request academic counselling?,faculty,Yes students can request counselling from faculty members.
+Can I participate in online certification courses?,certification,Yes students are encouraged to complete online certification courses.
+Does the college provide certification training?,certification,Yes certification training programs are conducted regularly.
+Are certification courses free?,certification,Some certification courses are free while others may have fees.
+Will certification improve placement chances?,certification,Yes certifications improve technical skills and placement opportunities.
+Which certification platforms are recommended?,certification,NPTEL Coursera Cisco AWS and Google are recommended.
+,,
+Can I apply for an education loan?,loan,Yes students can apply for education loans through banks.
+Does the college help with education loans?,loan,Yes the administration provides the required documents.
+What documents are required for an education loan?,loan,Admission letter fee structure and identity proof are generally required.
+Can loan documents be collected from the office?,loan,Yes students can collect them from the administration office.
+Does the college have bank tie-ups?,loan,Some banks provide education loan support for students.
+,,
+How do I register for campus recruitment?,placement,Eligible students can register through the placement cell.
+Is resume preparation training provided?,placement,Yes resume building sessions are conducted.
+Does the placement cell conduct interview preparation?,placement,Yes mock interviews and HR sessions are organized.
+Can students attend multiple placement drives?,placement,Yes eligible students can attend multiple drives based on company policies.
+Are off-campus placement opportunities shared?,placement,Yes the placement cell shares off-campus opportunities.
+,,
+Can students access previous question papers?,academics,Yes previous question papers are available in the library and department.
+Where can I find the academic calendar?,academics,The academic calendar is available on the college website.
+How can I view my semester results?,academics,Semester results can be viewed through the student portal.
+Can I improve my CGPA?,academics,Yes by performing well in future semesters and following university rules.
+Is academic counselling available?,academics,Yes academic counselling is available through faculty mentors.
+,,
+Does the college have an alumni association?,alumni,Yes the college has an active alumni association.
+Can alumni visit the campus?,alumni,Yes alumni are welcome with prior permission.
+Are alumni events conducted?,alumni,Yes alumni meets are organized every year.
+Do alumni help in placements?,alumni,Yes many alumni support placements and mentorship.
+Can students connect with alumni?,alumni,Yes students can connect through alumni programs.
+,,
+Is there a grievance cell?,support,Yes the college has a student grievance redressal cell.
+How can I submit a complaint?,support,Complaints can be submitted online or through the grievance cell.
+Is counselling available for students?,support,Yes personal and academic counselling is available.
+Who should I contact for technical issues?,support,Contact the IT support team or department coordinator.
+Where can I get general information about the college?,support,Visit the college website or contact the administration office.
+thank you,support,your wellcome .thank you for chosing AI cht board
