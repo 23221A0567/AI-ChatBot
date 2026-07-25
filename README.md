@@ -224,7 +224,7 @@ http://127.0.0.1:5000
 
 ## Author
 
-**Bunny Kunavarapu**
+**Banny Kunavarapu**
 
 B.Tech – Computer Science and Engineering
 
